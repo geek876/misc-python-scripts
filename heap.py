@@ -1,4 +1,4 @@
-ss Heap:
+class Heap:
 
     def __init__(self, array, N):
         self._heap =  array
